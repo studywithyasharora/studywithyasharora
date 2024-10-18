@@ -40,8 +40,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=enriquestrange&show_icons=true&locale=en&layout=compact" alt="studywithyasharora" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=studywithyasharora&show_icons=true&locale=en&layout=compact" alt="studywithyasharora" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enriquestrange&show_icons=true&locale=en" alt="enriquestrange" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=studywithyasharora&show_icons=true&locale=en" alt="enriquestrange" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enriquestrange&" alt="enriquestrange" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=studywithyasharora&" alt="studywithyasharora" /></p>
